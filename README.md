@@ -1,9 +1,18 @@
-# Hi there, I'm Flocer 👋 
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23000118&size=21&lines=Hello+there%2C+I'm+Flocer+Angelo+%F0%9F%91%8B;Nice+to+see+you...!">
+  </a>
+</h1>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
 
 - ⚡ I'm a Computer Science student
 - 🌱 I’m currently learning Javascript, React, Wordpress, etc 
 - 👯 I’m looking to collaborate with other developers to gain more knowledge and experience
 - 🥅 2022 Goals: Work on building my portfolio
+
+
 
 
 
