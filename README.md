@@ -1,9 +1,9 @@
 # Hi there, I'm Flocer 👋 
 
-
+- 💛 I'm a Computer Science student
 - 🌱 I’m currently learning Javascript, React, Wordpress, etc 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about web3
+- 👯 I’m looking to collaborate with other developers to gain more knowledge and experience
+- 🥅 2022 Goals: Work on building my portfolio
 - ⚡ Fun fact: I love to paint 
 
 
