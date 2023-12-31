@@ -1,7 +1,5 @@
 <h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23030A0E&size=25&lines=Hello+there+%F0%9F%91%8B+;I'm+Flocer+Angelo">
-  </a>
+ I'm Flocer Angelo
 </h1>
 
 
