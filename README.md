@@ -3,10 +3,10 @@
 </h1>
 
 
-- ⚡ I'm a Computer Science student
+- ⚡ I'm a Computer Science gradute
 - 🌱 I’m currently learning Javascript, React, Wordpress, etc 
 - 👯 I’m looking to collaborate with other developers to gain more knowledge and experience
-- 🥅 2022 Goals: Work on building my portfolio
+- 🥅 2024 Goals: To learn more
 
 
 
