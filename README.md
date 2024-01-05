@@ -3,7 +3,7 @@
 </h1>
 
 
-- ⚡ I'm a Computer Science gradute
+- ⚡ I'm a Computer Science graduate
 - 🌱 I’m currently learning Javascript, React, Wordpress, etc 
 - 👯 I’m looking to collaborate with other developers to gain more knowledge and experience
 - 🥅 2024 Goals: To learn more
